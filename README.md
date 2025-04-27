@@ -1,4 +1,4 @@
-# Sparkful Hackathon 2024
+# Sparkful Hackathon 2025
 
 Welcome to our Sparkful Hackathon project repository! This project was developed during the hackathon held on April 26, 2024.
 
