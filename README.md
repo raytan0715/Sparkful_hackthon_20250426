@@ -2,8 +2,14 @@
 
 Welcome to our Sparkful Hackathon project repository! This project was developed during the hackathon held on April 26, 2024.
 
-## Setup Instructions
+## Simulation: 
+A Chrome extension that lets users capture the current page’s price and, using RAG (Retrieval-Augmented Generation) combined with generative AI, recommends which credit card offers the best cashback.
 
+Technologies Used：
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js, MySQL
+
+## Setup Instructions
 ### Resetting Node Modules and Reinstalling Dependencies
 
 To properly set up the backend environment, follow these steps in your terminal:
