@@ -43,8 +43,6 @@ node server.js
 
 <div align="center">
   <img src="./images/ScreenShot1.png" alt="Application Screenshot 1" width="800"/>
-  <img src="./images/ScreenShot2.png" alt="Application Screenshot 2" width="800"/>
-  <img src="./images/ScreenShot3.png" alt="Application Screenshot 3" width="800"/>
   <img src="./images/ScreenShot4.png" alt="Application Screenshot 4" width="800"/>
   <img src="./images/ScreenShot5.png" alt="Application Screenshot 5" width="800"/>
   <img src="./images/ScreenShot6.png" alt="Application Screenshot 6" width="800"/>
