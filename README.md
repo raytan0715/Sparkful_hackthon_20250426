@@ -8,7 +8,7 @@ A Chrome extension that lets users capture the current page’s price and, using
 Technologies Used：
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js, MySQL
-
+Model: RAG+LLM(Gemini-1.5-pro)
 ## Setup Instructions
 ### Resetting Node Modules and Reinstalling Dependencies
 
