@@ -25,6 +25,8 @@ rm package-lock.json
 # Install dependencies
 npm install
 
+npm install @google/generative-ai
+#or
 npm install openai
 
 npm install @anthropic/mcp-server
